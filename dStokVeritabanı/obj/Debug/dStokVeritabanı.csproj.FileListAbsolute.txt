@@ -1,0 +1,10 @@
+C:\Users\husam\source\repos\dStokVeritabanı\obj\Debug\dStokVeritabanı.csproj.AssemblyReference.cache
+C:\Users\husam\source\repos\dStokVeritabanı\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\husam\source\repos\dStokVeritabanı\obj\Debug\dStokVeritabanı.Properties.Resources.resources
+C:\Users\husam\source\repos\dStokVeritabanı\obj\Debug\dStokVeritabanı.csproj.GenerateResource.cache
+C:\Users\husam\source\repos\dStokVeritabanı\obj\Debug\dStokVeritabanı.csproj.CoreCompileInputs.cache
+C:\Users\husam\source\repos\dStokVeritabanı\bin\Debug\dStokVeritabanı.exe.config
+C:\Users\husam\source\repos\dStokVeritabanı\bin\Debug\dStokVeritabanı.exe
+C:\Users\husam\source\repos\dStokVeritabanı\bin\Debug\dStokVeritabanı.pdb
+C:\Users\husam\source\repos\dStokVeritabanı\obj\Debug\dStokVeritabanı.exe
+C:\Users\husam\source\repos\dStokVeritabanı\obj\Debug\dStokVeritabanı.pdb
